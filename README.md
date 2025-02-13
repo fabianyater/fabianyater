@@ -1,14 +1,14 @@
-### Hi there! 👋
+# Hi there! 👋 Welcome to my GitHub Profile  
 
-**fabianyater/fabianyater** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me  
+I'm a passionate **software developer** focused on creating efficient and scalable solutions. I enjoy exploring new technologies, optimizing performance, and building applications that make an impact.  
 
-Here are some ideas to get you started:
+- 🔭 Currently working on a **personal finance application**  
+- 🌱 Learning **microservices communication, hexagonal architecture, AWS, and Git best practices**  
+- 🎯 Interested in **cloud computing, backend development, and system architecture**  
+- 💡 Always eager to **learn, collaborate, and solve complex challenges**  
 
-- 🔭 I’m currently working on a wallet application
-- 🌱 I’m currently learning communication between microservices, hexagonal architecture, aws, and Git
-- 💬 Ask me about anything you want!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fabianyr/)
+### 💬 Let's Connect!  
+I'm always open to discussing ideas, collaborating on projects, and sharing knowledge.  
 
-## Get in Touch
-
-I'm always open to interesting discussions and collaborations. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/fabianyr/). Let's connect and explore exciting opportunities together!
+📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/fabianyr/)** – let's talk about tech, innovation, and career growth!  
